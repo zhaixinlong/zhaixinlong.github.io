@@ -7,3 +7,7 @@
 - [Go 阅读清单](https://github.com/qichengzx/gopher-reading-list-zh_CN)
 
 - [Grpc Go](https://github.com/grpc/grpc-go/blob/master/examples/features/errors/server/main.go)
+
+- [GORM API](https://gorm.io/)
+  1. [GORM 中文文档](http://gorm.book.jasperxu.com/)
+  2. [GORM 中文文档](https://jasperxu.github.io/gorm-zh/)
