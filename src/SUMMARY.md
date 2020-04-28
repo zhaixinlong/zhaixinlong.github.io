@@ -11,6 +11,7 @@
 
   * [GOLANG](md/articles/golang/README.md)
     * [笔记](md/articles/golang/01.md)
+    * [GORM-MANY2MANY](md/articles/golang/02.md)
 
   * [KONG](md/articles/kong/README.md)
     * [安装](md/articles/kong/01.md)
