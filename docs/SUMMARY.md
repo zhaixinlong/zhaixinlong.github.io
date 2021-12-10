@@ -9,4 +9,4 @@
 
 * [📚笔记](md/articles/README.md)
 
-* [algorithm](md/algorithm/README.md)
+* [📚algorithm](md/algorithm/README.md)
