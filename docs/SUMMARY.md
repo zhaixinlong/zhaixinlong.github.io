@@ -1,21 +1,12 @@
-# Gitbook演示
+# 目录大纲
 
 * [前言](README.md)
+
 * [EXAMPLE](EXAMPLE.md)
-* [📚](md/books/README.md)
-  * [JAVA](md/books/java.md)
-  * [GOLANG](md/books/golang.md)
-* [📚](md/articles/README.md)
-  * [JAVA](md/articles/java/README.md)
-    * [笔记](md/articles/java/01.md)
 
-  * [GOLANG](md/articles/golang/README.md)
-    * [笔记](md/articles/golang/01.md)
-    * [GORM-MANY2MANY](md/articles/golang/02.md)
+* [📚图书](md/books/README.md)
+  * [Programing](md/books/programing.md)
 
-  * [KONG](md/articles/kong/README.md)
-    * [安装](md/articles/kong/01.md)
-    * [笔记](md/articles/kong/02.md)
+* [📚笔记](md/articles/README.md)
 
-  * [postgres](md/articles/postgres/README.md)
-    * [问题](md/articles/postgres/01.md)
+* [algorithm](md/algorithm/README.md)

@@ -1,3 +1,7 @@
-# Gitbook
+# My Gitbook In Learning bit by bit
 
-* [📚编程](md/books/README.md)
+* [Book](md/books/README.md)
+
+* [Note](md/articles/README.md)
+
+* [Algorithm](md/algorithm/README.md)
