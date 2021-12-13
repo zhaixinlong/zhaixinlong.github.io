@@ -11,6 +11,6 @@
 
 * [📚笔记](md/articles/README.md)
   * [Golang](md/articles/golang/README.md)
-  * [Postgres](md/articles/golang/README.md)
+  * [Postgres](md/articles/postgres/README.md)
 
 * [📚algorithm](md/algorithm/README.md)

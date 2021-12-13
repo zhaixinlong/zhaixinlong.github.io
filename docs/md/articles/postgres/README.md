@@ -1,4 +1,4 @@
 # 📚笔记
 
 ## Postgres
-* [postgres](01.md)
+* [postgres](./01.md)

@@ -1,4 +1,4 @@
-# My Gitbook In Learning bit by bit
+# Learning bit by bit
 
 * [Book](md/books/README.md)
 
