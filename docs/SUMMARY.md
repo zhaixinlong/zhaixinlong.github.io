@@ -20,5 +20,10 @@
   * [斐波那契数列](md/algorithm/斐波那契数列.md)
   * [数组去重](md/algorithm/有序数组-原地删除重复项.md)
 
+* 📚Efficiency
+  * [mac技巧](md/efficiency/mac.md)
+  * [搜索技巧](md/efficiency/search.md)
+  * [知识管理](md/efficiency/knowledge.md)
+
 * 📚Sentiment
   * [那人那山那狗](md/sentiment/那人那山那狗.md)
