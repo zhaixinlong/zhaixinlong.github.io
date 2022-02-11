@@ -20,6 +20,11 @@
   * [斐波那契数列](md/algorithm/斐波那契数列.md)
   * [数组去重](md/algorithm/有序数组-原地删除重复项.md)
 
+* 📚Encrypt
+  * [AES-Golang(ECB\CBC\CFB)](md/encrypt/aes-golang.md)
+  * [AES-NodeJs(ECB)](md/encrypt/aes-nodejs.md)
+  * [DES-EDE3-NodeJs](md/encrypt/des-ede3-nodejs.md)
+
 * 📚Efficiency
   * [mac技巧](md/efficiency/mac.md)
   * [搜索技巧](md/efficiency/search.md)
