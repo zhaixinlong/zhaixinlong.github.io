@@ -29,6 +29,7 @@
   * [mac技巧](md/efficiency/mac.md)
   * [搜索技巧](md/efficiency/search.md)
   * [知识管理](md/efficiency/knowledge.md)
+  * [关于阅读](md/efficiency/read.md)
 
 * 📚Sentiment
   * [那人那山那狗](md/sentiment/那人那山那狗.md)
