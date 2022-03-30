@@ -9,5 +9,6 @@
   * [当前Gitbook源码目录结构](md/chapter_3/ch3_structure_list.md)
   * [提示hint和插图编号callout](md/chapter_3/ch3_hint_callout.md)
   * [代码高亮显示](md/chapter_3/ch3_code_highlight.md)
-* [附录](md/appendix/README.md)
-  * [参考资料](md/appendix/reference.md)
+* 附录
+  * [编程书籍](https://zhaixinlong.net/md/books/programing.html)
+  * [参考资料](https://github.com/zhaixinlong/practice-go/blob/main/README.md)
