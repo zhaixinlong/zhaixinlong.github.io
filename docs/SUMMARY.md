@@ -15,6 +15,8 @@
   * [笔记](md/articles/postgres/笔记.md)
 * 📚Mysql
   * [笔记](md/articles/mysql/sql-mode.md)
+* 📚Python
+  * [笔记](md/articles/python/notes.md)
 
 * 📚Algorithm
   * [链表合并](md/algorithm/链表合并.md)

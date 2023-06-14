@@ -5,6 +5,9 @@
 * [单元测试](golang/单元测试.md)
 * [gorm-many2many](golang/02.md)
 
+## Python
+* [笔记](python/notes.md)
+
 ## Postgres
 * [postgres](postgres/01.md)
 
