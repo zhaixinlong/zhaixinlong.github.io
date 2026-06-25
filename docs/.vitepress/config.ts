@@ -124,6 +124,12 @@ export default defineConfig({
     }
   },
 
+  vite: {
+    ssr: {
+      noExternal: ['vitepress']
+    }
+  },
+
   markdown: {
     lineNumbers: true,
   }
