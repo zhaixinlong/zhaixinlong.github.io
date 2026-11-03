@@ -3,7 +3,12 @@
 ## Golang
 * [笔记](golang/笔记.md)
 * [单元测试](golang/单元测试.md)
+* [goroutine 泄漏](golang/goroutine泄漏.md)
 * [Gorm](golang/Gorm.md)
+
+## Metabase
+
+* [Docker 部署](metabase/Docker部署.md)
 
 ## Python
 * [笔记](python/notes.md)

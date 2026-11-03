@@ -8,7 +8,11 @@
 * 📚Golang
   * [笔记](md/articles/golang/笔记.md)
   * [单元测试](md/articles/golang/单元测试.md)
+  * [goroutine 泄漏](md/articles/golang/goroutine泄漏.md)
   * [Gorm](md/articles/golang/Gorm.md)
+
+* 📚Metabase
+  * [Docker 部署](md/articles/metabase/Docker部署.md)
 
 * 📚Postgres
   * [笔记](md/articles/postgres/笔记.md)
