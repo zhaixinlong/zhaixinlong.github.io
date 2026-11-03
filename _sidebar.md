@@ -4,7 +4,9 @@
 * 技术笔记
   * [Golang 笔记](md/articles/golang/笔记.md)
   * [Golang 单元测试](md/articles/golang/单元测试.md)
+  * [goroutine 泄漏](md/articles/golang/goroutine泄漏.md)
   * [Gorm](md/articles/golang/Gorm.md)
+  * [Metabase Docker 部署](md/articles/metabase/Docker部署.md)
   * [Kong 安装与笔记](md/articles/kong/README.md)
   * [Git Stash](md/articles/git/stash.md)
   * [MongoDB 事故](md/articles/mongodb/事故-节点重建.md)
